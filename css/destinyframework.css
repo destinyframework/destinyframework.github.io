@@ -14,3 +14,8 @@ body {
 .gh-btn {
 	margin-top: 7px;
 }
+
+.m-logo {
+	bottom: 5em !important;
+	left: 2em !important;
+}
